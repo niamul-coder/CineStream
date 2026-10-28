@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "Future-ready movie streaming and download application with futuristic dark cinematic design, rich video player, offline downloads, and curated multi-genre library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
